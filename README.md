@@ -1,4 +1,4 @@
-Dataset consists of the Hindi Language Case Study Dataset, the English and Marathi Monolingual Summarization Dataset and the Cross Summarization Dataset, all from the Cross Sum Dataset.
+Dataset consists of the English and Marathi Monolingual Summarization Dataset and the Cross Summarization Dataset, all from the Cross Sum Dataset.
 
 English & Marathi Summarization consist of the code for fine-tuning the 6 models selected.
 
