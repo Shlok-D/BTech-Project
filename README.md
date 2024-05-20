@@ -19,10 +19,7 @@ This project focuses on multilingual and cross-lingual text summarization, speci
 - **Hindi Case Study**: Extends methodologies to Hindi, demonstrating versatility.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/yourusername/yourproject.git`
-2. Navigate to the desired folder and follow the instructions in the respective README files to set up and run the code.
+1. Clone the repository: `git clone https://github.com/Shlok-D/BTech-Project.git`
 
 ## Observations
 All observations are based on multiple reruns and extensive experimentation, ensuring robust results.
-
-For detailed instructions and additional information, please refer to the individual README files within each folder.
