@@ -1,13 +1,28 @@
-Dataset consists of the English and Marathi Monolingual Summarization Dataset and the Cross Summarization Dataset, all from the Cross Sum Dataset.
+# Multilingual & Cross-Lingual Text Summarization
 
-English & Marathi Summarization consist of the code for fine-tuning the 6 models selected.
+## Project Overview
+This project focuses on multilingual and cross-lingual text summarization, specifically between English and Marathi, using advanced transformer-based models. It includes datasets, model fine-tuning, evaluation metrics, and case studies.
 
-Evaluation Metric consists of the code for the creation of the Relevance Dataset and model training and evaluation and also complete code of Evaluation Metric with Concept Coverage and Semantic Similarity and its subsequent testing.
+## Folder Structure
+- **Dataset**: Contains English and Marathi Monolingual Summarization Dataset and Cross Summarization Dataset from the Cross Sum Dataset.
+- **English & Marathi Summarization**: Code for fine-tuning the 6 selected models.
+- **Evaluation Metric**: Code for creating the Relevance Dataset, model training, evaluation, and the complete code for Evaluation Metric with Concept Coverage and Semantic Similarity, including testing.
+- **Hindi Case Study**: Fine-tuning and evaluation of the mBART-50 model on the Hindi language dataset.
+- **LLM Evaluation**: Code for evaluating GPT, mT0, and Gemini.
+- **Evaluations Code**: Code used to obtain Metric scores for monolingual summarization models and cross-lingual approaches.
 
-Hindi Case Study consists of the fine-tuning and evaluation of mbart-50 model on the Hindi language dataset.
+## Key Features
+- **Model Fine-Tuning**: Utilizes Pegasus, T5, BART for English; IndicBART, mT5, mBART for Marathi.
+- **Cross-Lingual Summarization**: Incorporates M2M-100 for translation, enhancing cross-lingual summarization capabilities.
+- **Novel Evaluation Metric**: Combines concept coverage, semantic similarity, and relevance for assessing summarization quality.
+- **Large Language Model Comparisons**: Includes comparative analysis with models such as GPT-4, GPT-3.5, mT0-base, and Gemini Pro.
+- **Hindi Case Study**: Extends methodologies to Hindi, demonstrating versatility.
 
-LLM Evaluation consists of the code for evaluating GPT, mt0 and Gemini.
+## Usage
+1. Clone the repository: `git clone https://github.com/yourusername/yourproject.git`
+2. Navigate to the desired folder and follow the instructions in the respective README files to set up and run the code.
 
-Evaluations Code consists of code used to get the Metric scores for the monolingual summarization models and the cross lingual approaches.
+## Observations
+All observations are based on multiple reruns and extensive experimentation, ensuring robust results.
 
-These are all one iterations of the basic code of the project, and all the observations were noted down by multiple reruns and experimentation.
+For detailed instructions and additional information, please refer to the individual README files within each folder.
